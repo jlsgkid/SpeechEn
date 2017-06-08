@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curse_config>
+	<menu mid="1" mvalue="home" ></menu>
+	<menu mid="2" mvalue="back" ></menu>
+	<menu mid="3" mvalue="map" ></menu>
+	<curse cid="1" cvalue="Flash" ></curse>
+	<curse cid="2" cvalue="Lumos" ></curse>
+	<curse cid="3" cvalue="Reducto" ></curse>
+	<curse cid="4" cvalue="Stupefy" ></curse>
+	<curse cid="5" cvalue="Expecto Patronum" ></curse>
+	<curse cid="6" cvalue="Telesport" ></curse>
+</curse_config>
